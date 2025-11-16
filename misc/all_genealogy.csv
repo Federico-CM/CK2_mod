@@ -9,3 +9,28 @@ id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
 8,f,Arnbjorg,Øltorskr,,284,,Inga Haugeby,Tridrekr Øltorskr,5,1
 9,f,Áni,Øltorskr,,263,,Inga Haugeby,Tridrekr Øltorskr,5,1
 10,f,Katrin,Øltorskr,,282,,Áni Øltorskr,Bastien Ravenstad,9,210
+11,m,Vulmar,Ravenstad,,283,,Áni Øltorskr,Bastien Ravenstad,9,210
+12,m,Medard,Ravenstad,Everian of Praag,268,,Konstanze Ravenstad,Rolf Krier baron of Graueburg,13,14
+13,f,Konstanze,Ravenstad,,249,308,,Rued II Ravenstad,,15
+14,m,Rolf,Krier,Baron of Graueburg,240,304,,,,
+15,m,Rued II,Ravenstad,Duke of Obermark,209,291,,,,
+16,m,Erwald,Ravenstad,,279,,Konstanze Ravenstad,Rolf Krier baron of Graueburg,13,14
+17,m,Vicelin,of Praag,Fury Arkenborn,290,,,Fury Arken,,18
+18,m,Fury,Arken,,240,,,,,
+19,m,Riccard I,Ravenstad,Baron of Islabd,261,278,,Rued II Ravenstad,,15
+20,f,Alette,Ravenstad,,235,298,,Rued II Ravenstad,,15
+21,m,Viktor,Ravenstad,,288,,Charlotte Mosselberg,Anton Ravenstad,22,23
+22,f,Charlotte,Mosselberg,,260,,,,,
+23,m,Anton,Ravenstad,,266,,Sybille Schauss,Karel I Ravenstad,24,25
+24,f,Sybille,Schauss,,249,,Michel Schauss,,,519
+25,m,Karel I,Ravenstad,Duke of Obermark,239,,,Rued II Ravenstad,,15
+26,m,Riccard II,Ravenstad,,292,,Auddriana Braquemont,Anton Ravenstad,27,23
+27,f,Auddriana,Braquemont,,270,,,,,
+28,f,Helena,Ravenstad,,294,,Auddriana Braquemont,Anton Ravenstad,27,23
+29,m,Parsival I,Ravenstad,Duke of the Lion’s Fold,265,,Sybille Schauss,Karel I Ravenstad,24,25
+30,m,Xavier,Ravenstad,,283,307,Adélaïde Brandebourgh,Parsival I Ravenstad,31,29
+31,f,Adélaïde,Brandebourgh,,263,,,,,
+32,f,Cécile,Ravenstad,,282,,Adélaïde Brandebourgh,Parsival I Ravenstad,31,29
+33,m,Jean-Luc,Ravenstad,,297,,Adélaïde Brandebourgh,Parsival I Ravenstad,31,29
+34,f,Eléonore,Ravenstad,,289,,Adélaïde Brandebourgh,Parsival I Ravenstad,31,29
+35,m,Riccard,Ravenstad,,286,,Auddriana Braquemont,Anton Ravenstad,27,23
