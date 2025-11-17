@@ -34,3 +34,29 @@ id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
 33,m,Jean-Luc,Ravenstad,,297,,Adélaïde Brandebourgh,Parsival I Ravenstad,31,29
 34,f,Eléonore,Ravenstad,,289,,Adélaïde Brandebourgh,Parsival I Ravenstad,31,29
 35,m,Riccard,Ravenstad,,286,,Auddriana Braquemont,Anton Ravenstad,27,23
+36,f,Regine,von Grunwald,,259,,,,,
+37,m,Äldrich I,Typhonus,Duke of Gunewerzen,132,186,,Ulrich I Typhonus,,
+38,m,Niven I,Typhonus,Duke of Gunewerzen,162,230,,Äldrich I Typhonus,,37
+39,f,Helene Marie,Brunig,Barones of Fuggleberg,164,195,,Nikolaus II Brunig,,255
+40,m,Gerhard III,Typhonus,Duke of Gunewerzen,185,274,Helene Marie Brunig barones of Fuggleberg,Niven I Typhonus,39,38
+41,m,Ottokar,Typhonus,Viridian Knight,191,252,Helene Marie Brunig barones of Fuggleberg,Niven I Typhonus,39,38
+42,m,Laurenz,Typhonus,Duke of Gunewerzen,224,240,,Ottokar Typhonus,,41
+43,m,Hadrian,Typhonus,Duke of Calemberg,206,271,,Gerhard III Typhonus,,40
+44,m,Theodon II,Typhonus,Baron of Herzwald,243,,,Gerhard III Typhonus,,40
+45,m,Albrecht I,Typhonus,Baron of Herzwald,263,,,Theodon II Typhonus,,44
+46,m,Rudolph I,Typhonus,,260,,,Theodon II Typhonus,,44
+47,m,Maximillian,Typhonus,,261,,,Theodon II Typhonus,,44
+48,m,Ulrich I,Typhonus,Archduke of Calemberg,251,,Alette Ravenstad,Hadrian Typhonus,20,43
+49,m,Klaus,Typhonus,,287,,Josephine von Moritz,Albrecht I Typhonus,479,45
+50,m,Reynold,Typhonus,,279,,Josephine von Moritz,Albrecht I Typhonus,479,45
+51,f,Lydia,Typhonus,,286,,Josephine von Moritz,Albrecht I Typhonus,479,45
+52,m,Thorón,Typhonus,Count of Marienburg,254,,Alette Ravenstad,Hadrian Typhonus,20,43
+53,m,Reinhardt,Typhonus,,278,,,Thorón Typhonus,,52
+54,f,Cecillie,Typhonus,,285,,,Thorón Typhonus,,52
+55,m,Roland,Typhonus,,296,,,Thorón Typhonus,,52
+56,m,Äolderich,Typhonus,Archducal Heir,273,,,Ulrich I Typhonus,,48
+57,m,Elrik,Typhonus,,279,,,Ulrich I Typhonus,,48
+58,m,Jaekor,Typhonus,Archducal Heir,274,,,Ulrich I Typhonus,,48
+59,f,Riane,Typhonus,Archducal Heir,276,,,Ulrich I Typhonus,,48
+60,m,Reimar,Typhonus,Vampire,295,,,Reynold Typhonus,,50
+61,f,Josephine,Typhonus,,284,,Josephine von Moritz,Albrecht I Typhonus,479,45
