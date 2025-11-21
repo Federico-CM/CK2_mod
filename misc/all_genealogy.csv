@@ -60,3 +60,119 @@ id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
 59,f,Riane,Typhonus,Archducal Heir,276,,,Ulrich I Typhonus,,48
 60,m,Reimar,Typhonus,Vampire,295,,,Reynold Typhonus,,50
 61,f,Josephine,Typhonus,,284,,Josephine von Moritz,Albrecht I Typhonus,479,45
+62,f,Rianne,Brunlg,,20,65,,Ludwig I Brunig,,245
+63,m,Caldomir I,Kade,Co-Chancellor of Regalia,6,49,,,,
+64,m,Aldomir I,Kade,Chancellor of Regalia,22,75,,Caldomir I Kade,,63
+65,f,Eotranna I,Kade,Chancellor of Regalia,23,114,,Caldomir I Kade,,63
+66,m,Tedromar I,Kade,Chancellor of Regalia,24,65,,Caldomir I Kade,,63
+67,m,Dwalmar I,Kade,Chancellor of Regalia,26,67,,Caldomir I Kade,,63
+68,m,Arnold I,Kade,Chancellor of Regalia,28,67,,Caldomir I Kade,,63
+70,f,Kattemeis,ter Uilenburg,Baroness of Uilenburg,18,56,,,,
+69,m,Betheoric I,Kade,Chancellor of Regalia,38,79,,Aldomir I Kade,62,64
+71,m,Betheoric II,Kade,Chancellor of Regalia,54,104,Kattemeis ter Uilenburg,Betheoric I Kade,70,69
+72,f,Maenarra,Brunlg,Chancellor of Regalia,51,104,,,,
+73,f,Ellenore,Kade,Chancellor of Regalia,71,110,Maenarra Brunig,Betheoric II Kade,72,71
+74,m,Tarnan I,Kade,Co-Chancellor of Regalia,93,119,Ellenore Kade,,73,
+75,m,Sarvan I,Kade,Co-Chancellor of Regalia,94,119,Ellenore Kade,,73,
+76,f,Beatrix,Kade,Baroness of Huilendom,80,141,Maenarra Brunig,Betheoric II Kade,72,71
+77,m,Arnold,van Zuienburg,Count of Zuienburg,79,160,,,,
+78,m,Nikolaas I (Nicholas),Kade,Chancellor of Regalia,103,205,Beatrix Kade,Arnold van Zuienburg,76,77
+79,f,Kassandra,Kade,,107,174,Beatrix Kade,Arnold van Zuienburg,76,77
+80,f,Melissa,Kade,,110,154,Beatrix Kade,Arnold van Zuienburg,76,77
+81,f,Elenoor,Kade,,111,130,Beatrix Kade,Arnold van Zuienburg,76,77
+82,f,Fienne,Kade,,116,210,Beatrix Kade,Arnold van Zuienburg,76,77
+83,f,Trixa,Kade,,120,200,Beatrix Kade,Arnold van Zuienburg,76,77
+84,f,Celemora,Kade,Chancellor of Regalia,121,205,Beatrix Kade,Arnold van Zuienburg,76,77
+85,m,Arnold II,Kade,Chancellor of Regalia,150,205,,Nikolaas I Kade,,78
+86,f,Ingrid,Langbergenwald,Baroness of Tecken,155,215,,,,
+87,m,Erik,Kade,Duke of Veldenhelm,153,203,,Nikolaas I Kade,,78
+88,m,Karel,Kade,Duke of Noordkappen,155,175,,Nikolaas I Kade,,78
+89,m,Theomar,Kade,Count of Westerbergen,159,210,,Nikolaas I Kade,,78
+90,f,Loesinne,Kade,Baroness of Kattenbroek,163,230,,Nikolaas I Kade,,78
+91,f,Leona,Kade,Thousand Blade Knight,174,245,Ingrid Langbergenwald,Arnold II Kade,86,85
+92,m,Alexander (Brand) I,Kade,Co-Chancellor of Regalia,172,216,Ingrid Langbergenwald,Arnold II Kade,86,85
+93,m,Kedmir I,Kade,Co-Chancellor of Regalia,173,216,Ingrid Langbergenwald,Arnold II Kade,86,85
+94,f,Suzanne,ter Apellenburg,Countess of Heckenwaard,170,210,,,,
+95,m,Dalmer,Kade,Viridian Knight,190,240,Suzanne ter Apellenburg,Kedmir I Kade,94,93
+96,m,Morgenkroon,Kade,Chancellor of Regalia,201,256,Suzanne ter Apellenburg,Kedmir I Kade,94,93
+97,m,Normen,Kade,Chancellor of Regalia,218,272,,Morgenkroon Kade,,96
+98,f,Morgannan,van Elst,,207,307,,,,
+99,f,Jacilla,Kade,Baroness of Tivolën,226,275,,Morgenkroon Kade,,96
+100,m,Moorak,van Polsterwerk,Eronidas General,205,276,,,,
+101,f,Bellatrix,Sur-Mont,Marquisse de Savalaire,198,275,,,,
+102,m,Aliandre,Kade,Chancellor of Regalia,219,310,,Morgenkroon Kade,,96
+103,m,Terijin,Kade,Concilly Councillor,223,300,,Morgenkroon Kade,,96
+104,m,Willem,Kade,Everian of Westerbroek,225,288,,Morgenkroon Kade,,96
+105,m,Walmar,Kade,Viridian Knight,233,303,,Morgenkroon Kade,,96
+106,m,Moriart,Kade,Chancellor of Regalia,234,303,Morgannan van Elst,Normen Kade,98,97
+107,f,Allianne,Ivrae de Sange,Princess of Regalia,241,,Callaire de Mont Vertu,Charlerois Ivrae de Sange,309,308
+108,f,Marie,Delurite,Countess of Curie Blesse,280,,,,,
+109,m,Albert-Stijn,Kade,,300,,Marie Delurite,Francis Kade,108,110
+110,m,Francis,Kade,Imperial Resident Scholar,257,,Elizabet van Voldemeer,Maximillian Kade,112,111
+111,m,Maximillian,Kade,Duke of Dorinnor,236,,Morgannan van Elst,Normen Kade,98,97
+112,f,Elizabet,van Voldemeer,Countess of Voldemeer,241,,,,,
+113,m,Willem-Friso,Kade,Councillor,260,,Elizabet van Voldemeer,Maximillian Kade,112,111
+114,m,Konstantijn,Kade,High Imperial Diplomat,274,,Elizabet van Voldemeer,Maximillian Kade,112,111
+115,m,Justiniaan,Kade,Bloodcast Knight,244,,Morgannan van Elst,Normen Kade,98,97
+116,f,Sheila-Manon,Kade,Imperial Archivist,245,,Morgannan van Elst,Normen Kade,98,97
+117,f,Gloriane,Kade,Imperial Archivist,247,,Morgannan van Elst,Normen Kade,98,97
+118,f,Beatrix,Kade,Duchess of Frise,249,310,Morgannan van Elst,Normen Kade,98,97
+119,m,Hetrijin,Etterburgh,Count of Etterburgh,231,,,,,
+120,m,Daan,Kade,Duke Regent of Frise,278,,Beatrix Kade,Hetrijin Etterburgh,118,119
+121,m,Laurent,Kade,Sickly Victorian Child,283,310,Beatrix Kade,Hetrijin Etterburgh,118,119
+122,m,Edwine,Kade,Bug Enthusiast,285,310,Beatrix Kade,Hetrijin Etterburgh,118,119
+123,f,Esmé,Kade,Regal Daydreamer,288,310,Beatrix Kade,Hetrijin Etterburgh,118,119
+124,f,Aliandra,Kade,Duchess of Inner Anglia,250,,Morgannan van Elst,Normen Kade,98,97
+125,m,Anton,Viraine,Count of Pineswold,243,,,,,
+126,m,Remón,Kade,,261,,Sheila-Manon Kade,,116,
+127,m,Desmón,Kade,,268,,Sheila-Manon Kade,,116,
+128,f,Arianne,Kade,,266,,Sheila-Manon Kade,,116,
+129,m,Hendrik,Kade,,271,,Sheila-Manon Kade,,116,
+130,f,Roena,Kade,Woman without equal,279,310,Beatrix Kade,Hetrijin Etterburgh,118,119
+131,m,Jozua,Kade,Imperial Palace Guard,275,,Aliandra Kade,Anton Viraine,124,125
+132,m,Goderol,Kade,Imperial Palace Guard,274,,Aliandra Kade,Anton Viraine,124,125
+133,m,Godfried,Kade,Imperial Palace Guard,276,,Aliandra Kade,Anton Viraine,124,125
+134,f,Antonie,Kade,,279,,Aliandra Kade,Anton Viraine,124,125
+135,m,Karlo,Kade,State Diplomat,281,,Aliandra Kade,Anton Viraine,124,125
+136,m,Willem,Kade,Viridian Knight,285,,Aliandra Kade,Anton Viraine,124,125
+137,f,Eloise,Ivrae de Sange,Princess of Regalia,260,291, Ivrae de Sange,Harlon de Montebrizère,311,310
+138,m,Alexander,Kade,Emperor of Regalia,257,,Alianne Ivrae de Sange,Moriart Kade,107,106
+139,f,Tamara,Vorlinderburgh,Baroness of Inderburgh,274,300,,,,
+140,m,Reinoud,Kade,Crownprince of Regalia,276,,Eloise Ivrae de Sange,Alexander Kade,137,138
+141,m,Frederik,Kade,Prince of Regalia,278,,Eloise Ivrae de Sange,Alexander Kade,137,138
+142,m,Raymond,Kade,Prince of Regalia,280,,Eloise Ivrae de Sange,Alexander Kade,137,138
+143,m,Robbert,Kade,Prince of Regalia,300,,Tamara Vorlinderburgh,Alexander Kade,139,138
+144,m,Moriart,Kade,Prince of Regalia,295,,Tamara Vorlinderburgh,Alexander Kade,139,138
+145,m,Vohemond,Kade,Prince of Regalia,310,,Juliana de Lobo,Alexander Kade,150,138
+146,m,Edouard,Kade,Prince of Regalia,309,,Juliana de Lobo,Alexander Kade,150,138
+147,m,Carlos,Kade,Prince of Regalia,308,,Juliana de Lobo,Alexander Kade,150,138
+148,f,Yvonne,Kade,Prince of Regalia,307,,Juliana de Lobo,Alexander Kade,150,138
+149,m,Jezeme,Kade,Prince of Regalia,305,,Juliana de Lobo,Alexander Kade,150,138
+150,f,Juliana,de Lobo,Queen of the Lusits,279,,,,,
+151,m,Tomas,Kade,Prince of Regalia,258,,Alisanne Ivrae de Sange,Moriart Kade,107,106
+152,f,Rosalia,Lovegood,,260,291,,,,
+153,m,Duncan,Kade,Prince of Regalia,276,,Rosalia Lovegood,Tomas Kade,152,151
+154,m,Valentijn,Kade,Prince of Regalia,277,,Rosalia Lovegood,Tomas Kade,152,151
+155,f,Noor,Kade,Prince of Regalia,278,,Rosalia Lovegood,Tomas Kade,152,151
+156,f,Juliana,Kade,Prince of Regalia,282,,Rosalia Lovegood,Tomas Kade,152,151
+157,m,Jasper,Kade,Prince of Regalia,285,,Rosalia Lovegood,Tomas Kade,152,151
+158,m,Darryl,Kade,Prince of Regalia,288,,Rosalia Lovegood,Tomas Kade,152,151
+159,m,Alderik,Kade,,258,,Elizabet van Voldemeer,Maximillian Kade,112,111
+160,m,Dominique,Kade,Prince of Regalia,260,,Alianne Ivrae de Sange,Moriart Kade,107,106
+161,m,Cedromar,Kade,Former Emperor,267,,Alianne Ivrae de Sange,Moriart Kade,107,106
+162,f,Amalia,Kade,Former Emperor,269,,Alianne Ivrae de Sange,Moriart Kade,107,106
+163,m,Taddeus,kade,Prince of Regalia,275,,Alianne Ivrae de Sange,Moriart Kade,107,106
+164,f,Floorance,Kade,Former Emperor,279,,Alianne Ivrae de Sange,Moriart Kade,107,106
+165,f,Evelienne,Kade,Former Emperor,282,,Alianne Ivrae de Sange,Moriart Kade,107,106
+166,m,Xavier,Kade,Former Emperor,283,,Alianne Ivrae de Sange,Moriart Kade,107,106
+167,m,Xander,Kade,Former Emperor,284,,Alianne Ivrae de Sange,Moriart Kade,107,106
+168,f,Heloise,Ivrae de Sange,Princess of Regalia,272,,Frederique Ivrae de Sange,,313,
+169,m,Michiel,Kade,Prince of Regalia,299,,Heloise Ivrae de Sange,Reinoud Kade,168,140
+170,m,Marjike,Kade,Princess of Regalia,300,,Heloise Ivrae de Sange,Reinoud Kade,168,140
+171,f,Quinn,of Portburgh,Viscountess of Portburgh,290,,,,,
+172,m,Valentijn,Kade,Prince of Regalia,306,,Quinn of Portburgh,Raymond Kade,171,142
+173,m,Wouter,Kade,Prince of Regalia,307,,Quinn of Portburgh,Raymond Kade,171,142
+174,f,Leonie,Kade,Princess of Regalia,308,,Quinn of Portburgh,Raymond Kade,171,142
+175,f,Yvonne,Kade,Princess of Regalia,309,,Quinn of Portburgh,Raymond Kade,171,142
+176,f,Therese,Kade,Princess of Regalia,311,,Quinn of Portburgh,Raymond Kade,171,142
+177,f,Femke-Flien,Kade,Princess of Regalia,312,,Quinn of Portburgh,Raymond Kade,171,142
