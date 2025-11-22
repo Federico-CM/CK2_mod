@@ -1,0 +1,2 @@
+culture = english
+religion = catholic
