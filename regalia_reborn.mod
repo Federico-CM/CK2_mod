@@ -1,7 +1,7 @@
 name="Regalia Reborn"
 path="mod/regalia_reborn"
 dependencies = {  }
-user_dir = "Pareithia"
+user_dir = "regalia_reborn"
 replace_path="history/titles"
 replace_path="history/characters"
 replace_path="history/wars"

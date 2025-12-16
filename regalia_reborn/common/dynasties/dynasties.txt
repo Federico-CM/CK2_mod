@@ -1,9 +1,4 @@
 1 = {
 	name = Black
-	culture = pommeranian
-}
-
-2 = {
-	name = Howlester
-	culture = bosnian
+	culture = english
 }

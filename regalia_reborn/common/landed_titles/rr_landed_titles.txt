@@ -1,0 +1,39 @@
+e_esaluw = {
+    color = { 0 126 210 }
+    color2 = { 255 255 255 }
+    capital = 1 # ruleald
+    culture = english
+
+    k_alenirc = {
+        color = { 0 126 210 }
+        color2 = { 255 255 255 }
+        capital = 1 # ruleald
+        culture = english
+
+        d_weofing = {
+            color = { 0 126 210 }
+            color2 = { 255 255 255 }
+            capital = 1 # ruleald
+            culture = english
+
+            c_boroghan = {
+                color = { 42 33 188 }
+                color2 = { 255 255 255 }
+                culture = english
+
+                b_boroghan = { }
+                b_qunazi   = { }
+            }
+
+            c_ruleald = {
+                color = { 0 126 210 }
+                color2 = { 255 255 255 }
+                culture = english
+
+                b_ruleald = { }
+                b_rutahsa = { }
+            }
+        }
+    }
+}
+

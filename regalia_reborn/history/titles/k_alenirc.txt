@@ -1,6 +1,5 @@
-315.2.1 = {
-	holder = 1002238
-	law = succ_tanistry
-	law = cognatic_succession
+315.9.15 = {
+	law = succ_primogeniture
+	law = agnatic_succession
 }
 
