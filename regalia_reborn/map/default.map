@@ -1,5 +1,5 @@
 
-max_provinces = 4
+max_provinces = 6
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -15,4 +15,11 @@ region = "island_region.txt"
 geographical_region = "geographical_region.txt"
 static = "statics"
 seasons = "seasons.txt"
+
+
+sea_zones = { 4 5 }
+
+ocean_region = {	# Inner Regalian seas
+	sea_zones = { 1 }
+}
 
